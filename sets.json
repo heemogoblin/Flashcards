@@ -1,0 +1,1267 @@
+{
+    "Sets": [
+        {
+            "Name": "test set 2",
+            "Terms": [
+                {
+                    "Key": "hallo",
+                    "Value": "hello"
+                }
+            ]
+        },
+        {
+            "Name": "test set 3",
+            "Terms": [
+                {
+                    "Key": "hallo",
+                    "Value": "hello"
+                }
+            ]
+        },
+        {
+            "Name": "Verben mit praepositionen",
+            "Terms": [
+                {
+                    "Key": "abbringen von ",
+                    "Value": "to argue out of"
+                },
+                {
+                    "Key": "abhängen von ",
+                    "Value": "to depend on"
+                },
+                {
+                    "Key": "achten auf ",
+                    "Value": "to watch smth."
+                },
+                {
+                    "Key": "adressieren an ",
+                    "Value": "to address smth."
+                },
+                {
+                    "Key": "anfangen mit ",
+                    "Value": "to begin with"
+                },
+                {
+                    "Key": "anregen zu ",
+                    "Value": "to encourage"
+                },
+                {
+                    "Key": "anrufen bei ",
+                    "Value": "to call"
+                },
+                {
+                    "Key": "ansehen als ",
+                    "Value": "to regard as"
+                },
+                {
+                    "Key": "antworten auf ",
+                    "Value": "to answer"
+                },
+                {
+                    "Key": "arbeiten an,bei ",
+                    "Value": "to work on"
+                },
+                {
+                    "Key": "auffordern zu ",
+                    "Value": "to ask for,invite"
+                },
+                {
+                    "Key": "aufhören mit ",
+                    "Value": "to give up on"
+                },
+                {
+                    "Key": "aufpassen auf ",
+                    "Value": "to pay attention on"
+                },
+                {
+                    "Key": "ausgehen von ",
+                    "Value": "to come out of"
+                },
+                {
+                    "Key": "basieren auf ",
+                    "Value": "to be based upon"
+                },
+                {
+                    "Key": "befördern zu ",
+                    "Value": "to carry to"
+                },
+                {
+                    "Key": "beginnen mit ",
+                    "Value": "to begin with"
+                },
+                {
+                    "Key": "beglückswünschen zu ",
+                    "Value": "to congratulate on smth."
+                },
+                {
+                    "Key": "beharren auf ",
+                    "Value": "to insist upon"
+                },
+                {
+                    "Key": "beitragen zu ",
+                    "Value": "to contribute to"
+                },
+                {
+                    "Key": "berichten von ",
+                    "Value": "to refer to smth."
+                },
+                {
+                    "Key": "berichten über ",
+                    "Value": "to tell about"
+                },
+                {
+                    "Key": "beschreiben als ",
+                    "Value": "to describe as"
+                },
+                {
+                    "Key": "bestehen auf ",
+                    "Value": "to insist on"
+                },
+                {
+                    "Key": "bestehen aus ",
+                    "Value": "to consist of"
+                },
+                {
+                    "Key": "bezeichnen als ",
+                    "Value": "to call smth. as"
+                },
+                {
+                    "Key": "bitten um ",
+                    "Value": "to ask for"
+                },
+                {
+                    "Key": "bringen zu ",
+                    "Value": "to bring to"
+                },
+                {
+                    "Key": "danken für ",
+                    "Value": "to thank for"
+                },
+                {
+                    "Key": "debattieren mit ",
+                    "Value": "to debate with"
+                },
+                {
+                    "Key": "debattieren über ",
+                    "Value": "to debate over"
+                },
+                {
+                    "Key": "demonstrieren für ",
+                    "Value": "to demonstrate for"
+                },
+                {
+                    "Key": "demonstrieren gegen ",
+                    "Value": "to demonstrate against"
+                },
+                {
+                    "Key": "denken an ",
+                    "Value": "to think about"
+                },
+                {
+                    "Key": "dienen als ",
+                    "Value": "to serve as smth."
+                },
+                {
+                    "Key": "diskutieren mit ",
+                    "Value": "to discuss with"
+                },
+                {
+                    "Key": "diskutieren über ",
+                    "Value": "to discuss about"
+                },
+                {
+                    "Key": "duften nach ",
+                    "Value": "to be sweet with"
+                },
+                {
+                    "Key": "einladen zu ",
+                    "Value": "to invite,ask"
+                },
+                {
+                    "Key": "enden mit ",
+                    "Value": "to end with"
+                },
+                {
+                    "Key": "entstehen aus ",
+                    "Value": "to emerge from smth."
+                },
+                {
+                    "Key": "erkranken an ",
+                    "Value": "to get ill with"
+                },
+                {
+                    "Key": "ernennen zu ",
+                    "Value": "to nominate as"
+                },
+                {
+                    "Key": "erschrecken vor ",
+                    "Value": "to fear (danger)"
+                },
+                {
+                    "Key": "erschrecken über ",
+                    "Value": "to fear (situation)"
+                },
+                {
+                    "Key": "erwarten von ",
+                    "Value": "to want smth. from"
+                },
+                {
+                    "Key": "erziehen zu ",
+                    "Value": "to raise"
+                },
+                {
+                    "Key": "erzählen von ",
+                    "Value": "to tell about smth."
+                },
+                {
+                    "Key": "es geht um ",
+                    "Value": "it's about ..."
+                },
+                {
+                    "Key": "es handelt sich um ",
+                    "Value": "it's a question of ..."
+                },
+                {
+                    "Key": "es kommt ... an auf ",
+                    "Value": "it is ..."
+                },
+                {
+                    "Key": "fliehen vor ",
+                    "Value": "to escape from smth."
+                },
+                {
+                    "Key": "flüchten vor ",
+                    "Value": "to escape from smth."
+                },
+                {
+                    "Key": "fordern von ",
+                    "Value": "to demand from"
+                },
+                {
+                    "Key": "fragen nach ",
+                    "Value": "to ask for smth."
+                },
+                {
+                    "Key": "fußen auf ",
+                    "Value": "to be based off"
+                },
+                {
+                    "Key": "führen zu ",
+                    "Value": "to bring as smth, to lead to"
+                },
+                {
+                    "Key": "gehören zu ",
+                    "Value": "to belong to"
+                },
+                {
+                    "Key": "gelten als ",
+                    "Value": "to be regarded as"
+                },
+                {
+                    "Key": "geraten in ",
+                    "Value": "to get into smth."
+                },
+                {
+                    "Key": "glauben an ",
+                    "Value": "to believe in"
+                },
+                {
+                    "Key": "gliedern in ",
+                    "Value": "to be composed of"
+                },
+                {
+                    "Key": "halten für ",
+                    "Value": "to consider as"
+                },
+                {
+                    "Key": "halten von ",
+                    "Value": "to think smth. of smth."
+                },
+                {
+                    "Key": "handeln mit ",
+                    "Value": "to act,deal with (goods)"
+                },
+                {
+                    "Key": "handeln von ",
+                    "Value": "to act,deal with (substance,matter)"
+                },
+                {
+                    "Key": "hoffen auf ",
+                    "Value": "to hope for"
+                },
+                {
+                    "Key": "hören auf ",
+                    "Value": "to listen to"
+                },
+                {
+                    "Key": "klagen über ",
+                    "Value": "to complain over"
+                },
+                {
+                    "Key": "kämpfen für ",
+                    "Value": "to fight for (ideas)"
+                },
+                {
+                    "Key": "kämpfen gegen ",
+                    "Value": "to fight against"
+                },
+                {
+                    "Key": "kämpfen mit ",
+                    "Value": "to fight with (partner)"
+                },
+                {
+                    "Key": "kämpfen um ",
+                    "Value": "to fight with (object)"
+                },
+                {
+                    "Key": "lachen über ",
+                    "Value": "to laugh over"
+                },
+                {
+                    "Key": "leben von ",
+                    "Value": "to live on"
+                },
+                {
+                    "Key": "leiden an ",
+                    "Value": "to suffer (illness)"
+                },
+                {
+                    "Key": "leiden unter ",
+                    "Value": "to be affected by (situation)"
+                },
+                {
+                    "Key": "liegen an ",
+                    "Value": "to be located"
+                },
+                {
+                    "Key": "nachdenken über ",
+                    "Value": "to reflect,think on"
+                },
+                {
+                    "Key": "neigen zu ",
+                    "Value": "to tend to smth."
+                },
+                {
+                    "Key": "passen zu ",
+                    "Value": "to match smth."
+                },
+                {
+                    "Key": "protestieren gegen ",
+                    "Value": "to protest against"
+                },
+                {
+                    "Key": "raten zu ",
+                    "Value": "to advise to do smth."
+                },
+                {
+                    "Key": "reagieren auf ",
+                    "Value": "to respond,react to"
+                },
+                {
+                    "Key": "reden mit ",
+                    "Value": "to speak with"
+                },
+                {
+                    "Key": "reden über ",
+                    "Value": "to speak about"
+                },
+                {
+                    "Key": "riechen nach ",
+                    "Value": "to smell of smth."
+                },
+                {
+                    "Key": "rufen nach ",
+                    "Value": "to cry for"
+                },
+                {
+                    "Key": "schicken an ",
+                    "Value": "to send"
+                },
+                {
+                    "Key": "schießen auf ",
+                    "Value": "to fire at"
+                },
+                {
+                    "Key": "schimpfen auf ",
+                    "Value": "to grumble (someone)"
+                },
+                {
+                    "Key": "schimpfen mit ",
+                    "Value": "to grumble with"
+                },
+                {
+                    "Key": "schimpfen über ",
+                    "Value": "to grumble (theme)"
+                },
+                {
+                    "Key": "schmecken nach ",
+                    "Value": "to taste of smth."
+                },
+                {
+                    "Key": "senden an ",
+                    "Value": "to send"
+                },
+                {
+                    "Key": "sich anpassen an ",
+                    "Value": "to adapt to"
+                },
+                {
+                    "Key": "sich auseinandersetzen mit ",
+                    "Value": "to argue with someone"
+                },
+                {
+                    "Key": "sich bedanken bei ",
+                    "Value": "to thank (person)"
+                },
+                {
+                    "Key": "sich bedanken für ",
+                    "Value": "to thank (object)"
+                },
+                {
+                    "Key": "sich beeilen mit ",
+                    "Value": "to hurry up with smth."
+                },
+                {
+                    "Key": "sich befreien von ",
+                    "Value": "to free from smth."
+                },
+                {
+                    "Key": "sich beklagen bei ",
+                    "Value": "to moan about (person)"
+                },
+                {
+                    "Key": "sich beklagen über ",
+                    "Value": "to moan about (thing)"
+                },
+                {
+                    "Key": "sich bewerben um,auf ",
+                    "Value": "to apply for (job)"
+                },
+                {
+                    "Key": "sich beziehen auf ",
+                    "Value": "to refer to smth."
+                },
+                {
+                    "Key": "sich eignen für ",
+                    "Value": "to be suitable for"
+                },
+                {
+                    "Key": "sich eignen zu ",
+                    "Value": "to qualify for"
+                },
+                {
+                    "Key": "sich einigen auf ",
+                    "Value": "to agree on smth."
+                },
+                {
+                    "Key": "sich einsetzen für ",
+                    "Value": "to plead for smth."
+                },
+                {
+                    "Key": "sich einstellen auf ",
+                    "Value": "to be prepared for"
+                },
+                {
+                    "Key": "sich ekeln vor ",
+                    "Value": "to sicken at"
+                },
+                {
+                    "Key": "sich engagieren für ",
+                    "Value": "to engage with"
+                },
+                {
+                    "Key": "sich entscheiden für ",
+                    "Value": "to decide for"
+                },
+                {
+                    "Key": "sich entscheiden gegen ",
+                    "Value": "to decide against"
+                },
+                {
+                    "Key": "sich entschließen zu ",
+                    "Value": "to determine to do smth."
+                },
+                {
+                    "Key": "sich entschuldigungen bei ",
+                    "Value": "to apologise to someone"
+                },
+                {
+                    "Key": "sich entschuldigungen für ",
+                    "Value": "to apologise for"
+                },
+                {
+                    "Key": "sich entwickeln zu ",
+                    "Value": "to develop into"
+                },
+                {
+                    "Key": "sich ergeben aus ",
+                    "Value": "to result from smth."
+                },
+                {
+                    "Key": "sich erholen von ",
+                    "Value": "to recover from smth."
+                },
+                {
+                    "Key": "sich erinnern an ",
+                    "Value": "to remember smth."
+                },
+                {
+                    "Key": "sich erkundigen bei ",
+                    "Value": "to inquire (person)"
+                },
+                {
+                    "Key": "sich erkundigen nach ",
+                    "Value": "to inquire (topic)"
+                },
+                {
+                    "Key": "sich ernähren von ",
+                    "Value": "to eat,diet"
+                },
+                {
+                    "Key": "sich freuen auf ",
+                    "Value": "to look forward to (future)"
+                },
+                {
+                    "Key": "sich freuen über ",
+                    "Value": "to look forward to (event)"
+                },
+                {
+                    "Key": "sich fürchten vor ",
+                    "Value": "to fear"
+                },
+                {
+                    "Key": "sich gewöhnen an ",
+                    "Value": "to be used to"
+                },
+                {
+                    "Key": "sich informieren bei ",
+                    "Value": "to inform over (person)"
+                },
+                {
+                    "Key": "sich informieren über ",
+                    "Value": "to inform over (theme)"
+                },
+                {
+                    "Key": "sich interessieren für ",
+                    "Value": "to be interested in"
+                },
+                {
+                    "Key": "sich irren in ",
+                    "Value": "to fool"
+                },
+                {
+                    "Key": "sich konzentrieren auf ",
+                    "Value": "to concentrate on"
+                },
+                {
+                    "Key": "sich kümmern um ",
+                    "Value": "to take care of, look after"
+                },
+                {
+                    "Key": "sich orientieren an ",
+                    "Value": "to be based on,similar to"
+                },
+                {
+                    "Key": "sich richten nach ",
+                    "Value": "to comply with smth."
+                },
+                {
+                    "Key": "sich rächen an ",
+                    "Value": "to take revenge on (person)"
+                },
+                {
+                    "Key": "sich rächen für ",
+                    "Value": "to take revenge on (reason)"
+                },
+                {
+                    "Key": "sich schützen vor ",
+                    "Value": "to protect from smth."
+                },
+                {
+                    "Key": "sich sehnen nach ",
+                    "Value": "to long for"
+                },
+                {
+                    "Key": "sich sorgen um ",
+                    "Value": "to worry over"
+                },
+                {
+                    "Key": "sich täuschen in ",
+                    "Value": "to be mistaken over smth."
+                },
+                {
+                    "Key": "sich umstellen auf ",
+                    "Value": "to change to smth."
+                },
+                {
+                    "Key": "sich unterhalten mit ",
+                    "Value": "to entertain with (person)"
+                },
+                {
+                    "Key": "sich unterhalten über ",
+                    "Value": "to entertain over (theme)"
+                },
+                {
+                    "Key": "sich unterscheiden in ",
+                    "Value": "to differ in"
+                },
+                {
+                    "Key": "sich verlassen auf ",
+                    "Value": "to rely on"
+                },
+                {
+                    "Key": "sich verlieben in ",
+                    "Value": "to fall in love with"
+                },
+                {
+                    "Key": "sich versetzen in ",
+                    "Value": "to move in"
+                },
+                {
+                    "Key": "sich verteidigen gegen ",
+                    "Value": "to defend someone against smth."
+                },
+                {
+                    "Key": "sich vertragen mit ",
+                    "Value": "to get along with someone"
+                },
+                {
+                    "Key": "sich verwandeln in ",
+                    "Value": "to transform into"
+                },
+                {
+                    "Key": "sich vorbereiten auf ",
+                    "Value": "to prepare for"
+                },
+                {
+                    "Key": "sich wehren gegen ",
+                    "Value": "to defend against"
+                },
+                {
+                    "Key": "sich wundern über ",
+                    "Value": "to wonder at smth."
+                },
+                {
+                    "Key": "sich zusammensetzen aus ",
+                    "Value": "to be made up of smth."
+                },
+                {
+                    "Key": "sich ängstigen um ",
+                    "Value": "to be scared over (object)"
+                },
+                {
+                    "Key": "sich ängstigen vor ",
+                    "Value": "to be scared over (danger)"
+                },
+                {
+                    "Key": "sich ärgern über ",
+                    "Value": "to get angry over"
+                },
+                {
+                    "Key": "sorgen für ",
+                    "Value": "to long for"
+                },
+                {
+                    "Key": "spielen mit ",
+                    "Value": "to play with (person)"
+                },
+                {
+                    "Key": "spielen um ",
+                    "Value": "to play with (object)"
+                },
+                {
+                    "Key": "spotten über ",
+                    "Value": "to scoff at"
+                },
+                {
+                    "Key": "sprechen mit ",
+                    "Value": "to speak with (person)"
+                },
+                {
+                    "Key": "sprechen über,von ",
+                    "Value": "to speak about (theme)"
+                },
+                {
+                    "Key": "stammen aus ",
+                    "Value": "to date back to"
+                },
+                {
+                    "Key": "staunen über ",
+                    "Value": "to marvel at"
+                },
+                {
+                    "Key": "sterben an ",
+                    "Value": "to die of"
+                },
+                {
+                    "Key": "stimmen für ",
+                    "Value": "to vote for"
+                },
+                {
+                    "Key": "stinken nach ",
+                    "Value": "to stink of"
+                },
+                {
+                    "Key": "streiten mit ",
+                    "Value": "to argue with (person)"
+                },
+                {
+                    "Key": "streiten um ",
+                    "Value": "to argue over (object)"
+                },
+                {
+                    "Key": "streiten über ",
+                    "Value": "to argue over (theme)"
+                },
+                {
+                    "Key": "suchen nach ",
+                    "Value": "to look for smth."
+                },
+                {
+                    "Key": "teilnehmen an ",
+                    "Value": "to take part in smth."
+                },
+                {
+                    "Key": "telefonieren mit ",
+                    "Value": "talk over the phone"
+                },
+                {
+                    "Key": "träumen von ",
+                    "Value": "to dream about smth."
+                },
+                {
+                    "Key": "verheimlichen vor ",
+                    "Value": "to hide smth. from someone"
+                },
+                {
+                    "Key": "verlangen nach ",
+                    "Value": "to want smth."
+                },
+                {
+                    "Key": "verleiten zu ",
+                    "Value": "to lead someone to"
+                },
+                {
+                    "Key": "verstoßen gegen ",
+                    "Value": "to be in breach of smth."
+                },
+                {
+                    "Key": "vertrauen in,auf ",
+                    "Value": "to trust,rely on"
+                },
+                {
+                    "Key": "verzichten auf ",
+                    "Value": "to abstain from smth."
+                },
+                {
+                    "Key": "warnen vor ",
+                    "Value": "to warn over smth."
+                },
+                {
+                    "Key": "warten auf ",
+                    "Value": "to wait for"
+                },
+                {
+                    "Key": "weinen über ",
+                    "Value": "to cry over"
+                },
+                {
+                    "Key": "werben für ",
+                    "Value": "to advertise smth."
+                },
+                {
+                    "Key": "werden zu ",
+                    "Value": "to turn into smth."
+                },
+                {
+                    "Key": "wetten mit ",
+                    "Value": "to bet with (person)"
+                },
+                {
+                    "Key": "wetten um ",
+                    "Value": "to bet over (object)"
+                },
+                {
+                    "Key": "wirken auf ",
+                    "Value": "to affect"
+                },
+                {
+                    "Key": "wissen von,über ",
+                    "Value": "to know about smth."
+                },
+                {
+                    "Key": "wählen zu ",
+                    "Value": "to elect smth."
+                },
+                {
+                    "Key": "zielen auf ",
+                    "Value": "to aim for"
+                },
+                {
+                    "Key": "zweifeln an ",
+                    "Value": "to doubt"
+                },
+                {
+                    "Key": "zwingen zu ",
+                    "Value": "to force into smth."
+                },
+                {
+                    "Key": "zählen zu ",
+                    "Value": "to reckon smth."
+                },
+                {
+                    "Key": "zögern mit ",
+                    "Value": "to hesitate"
+                },
+                {
+                    "Key": "ändern an ",
+                    "Value": "to change to"
+                },
+                {
+                    "Key": "überreden zu ",
+                    "Value": "to talk smth. into someone"
+                },
+                {
+                    "Key": "übersetzen aus ",
+                    "Value": "to translate from"
+                },
+                {
+                    "Key": "übersetzen in ",
+                    "Value": "to translate into"
+                },
+                {
+                    "Key": "überzeugen von ",
+                    "Value": "to convince smth."
+                }
+            ]
+        },
+        {
+            "Name": "Set 2",
+            "Terms": [
+                {
+                    "Key": "ausschliessen ",
+                    "Value": " separate, outcast"
+                },
+                {
+                    "Key": "bisher ",
+                    "Value": " for now"
+                },
+                {
+                    "Key": "darauf achten ",
+                    "Value": " be careful"
+                },
+                {
+                    "Key": "das Gewicht ",
+                    "Value": " weight"
+                },
+                {
+                    "Key": "das Lob ",
+                    "Value": " praise"
+                },
+                {
+                    "Key": "der Becher ",
+                    "Value": " cup"
+                },
+                {
+                    "Key": "der Bettler ",
+                    "Value": " beggar"
+                },
+                {
+                    "Key": "der Draht ",
+                    "Value": " wire"
+                },
+                {
+                    "Key": "der Eigentümer ",
+                    "Value": " owner"
+                },
+                {
+                    "Key": "der Lotsen ",
+                    "Value": " pilot"
+                },
+                {
+                    "Key": "der Rand ",
+                    "Value": " edge"
+                },
+                {
+                    "Key": "der Schaden ",
+                    "Value": " danger"
+                },
+                {
+                    "Key": "die Einnahme ",
+                    "Value": " revenue"
+                },
+                {
+                    "Key": "die Ermittlung ",
+                    "Value": " ascertainment"
+                },
+                {
+                    "Key": "die Gepflogenheit ",
+                    "Value": " ancient traditions"
+                },
+                {
+                    "Key": "die Ladung ",
+                    "Value": " freight"
+                },
+                {
+                    "Key": "die Ursache ",
+                    "Value": " reason"
+                },
+                {
+                    "Key": "die Vermutung ",
+                    "Value": " guess"
+                },
+                {
+                    "Key": "entwickeln ",
+                    "Value": " to develop"
+                },
+                {
+                    "Key": "erheblich ",
+                    "Value": " serious"
+                },
+                {
+                    "Key": "etw. acc entdecken ",
+                    "Value": " to discover"
+                },
+                {
+                    "Key": "kündigen ",
+                    "Value": " to cancel,fire"
+                },
+                {
+                    "Key": "sich +acc els etw +nom erwiesen ",
+                    "Value": " to prove to be something"
+                },
+                {
+                    "Key": "sich auf etw. verzichten ",
+                    "Value": " decline somethign"
+                },
+                {
+                    "Key": "stur ",
+                    "Value": " stubborn"
+                },
+                {
+                    "Key": "verbreiteten ",
+                    "Value": " widespread"
+                },
+                {
+                    "Key": "wohlauf ",
+                    "Value": " well"
+                }
+            ]
+        },
+        {
+            "Name": "01",
+            "Terms": [
+                {
+                    "Key": "an etw. herantreten",
+                    "Value": " to approach smth."
+                },
+                {
+                    "Key": "andauern ",
+                    "Value": "to continue"
+                },
+                {
+                    "Key": "ausbreiten ",
+                    "Value": " to spread"
+                },
+                {
+                    "Key": "auseinander ",
+                    "Value": " apart"
+                },
+                {
+                    "Key": "blödsinning ",
+                    "Value": "idiotic"
+                },
+                {
+                    "Key": "bogenförmig ",
+                    "Value": "arched"
+                },
+                {
+                    "Key": "das Blech ",
+                    "Value": "Steel sheet"
+                },
+                {
+                    "Key": "das Gold ",
+                    "Value": " gold"
+                },
+                {
+                    "Key": "das Jucken ",
+                    "Value": "itch"
+                },
+                {
+                    "Key": "das Pult",
+                    "Value": " desk"
+                },
+                {
+                    "Key": "das Ungeziefer ",
+                    "Value": " bug"
+                },
+                {
+                    "Key": "der ",
+                    "Value": "Schmerz pain"
+                },
+                {
+                    "Key": "der Beschauer",
+                    "Value": " Viewer"
+                },
+                {
+                    "Key": "der Kälteschauer ",
+                    "Value": "chill"
+                },
+                {
+                    "Key": "der Pelz ",
+                    "Value": "fur"
+                },
+                {
+                    "Key": "der Rahmen ",
+                    "Value": " frame"
+                },
+                {
+                    "Key": "der Teufel ",
+                    "Value": "devil"
+                },
+                {
+                    "Key": "der Umfang ",
+                    "Value": " extent, circumference"
+                },
+                {
+                    "Key": "die Bettdecke ",
+                    "Value": " bed duvet"
+                },
+                {
+                    "Key": "die Lage",
+                    "Value": " layer,position,status"
+                },
+                {
+                    "Key": "die Musterkollektion",
+                    "Value": " sample collection"
+                },
+                {
+                    "Key": "die Narrheit ",
+                    "Value": "follz"
+                },
+                {
+                    "Key": "die Schwerhörigkeit",
+                    "Value": " hardness of hearing"
+                },
+                {
+                    "Key": "die Trübe",
+                    "Value": " slime"
+                },
+                {
+                    "Key": "die Tuchwaren",
+                    "Value": " draperies"
+                },
+                {
+                    "Key": "die Versteifung ",
+                    "Value": "reinforcement"
+                },
+                {
+                    "Key": "die Verwandlung ",
+                    "Value": " transformation"
+                },
+                {
+                    "Key": "dumpf ",
+                    "Value": "dull"
+                },
+                {
+                    "Key": "erlangen ",
+                    "Value": "to win,succeed"
+                },
+                {
+                    "Key": "etw(acc) beurteilen",
+                    "Value": " to assess"
+                },
+                {
+                    "Key": "flimmerten ",
+                    "Value": "to glimmer"
+                },
+                {
+                    "Key": "gewölbt ",
+                    "Value": " arched"
+                },
+                {
+                    "Key": "gleiten ",
+                    "Value": "to slide"
+                },
+                {
+                    "Key": "im Vergleich ",
+                    "Value": " in comparison"
+                },
+                {
+                    "Key": "jucken ",
+                    "Value": "to itch"
+                },
+                {
+                    "Key": "juckend ",
+                    "Value": "itchy"
+                },
+                {
+                    "Key": "kläglich ",
+                    "Value": "feeble"
+                },
+                {
+                    "Key": "schaukelten",
+                    "Value": " to sway"
+                },
+                {
+                    "Key": "sich Verwandeln ",
+                    "Value": " to transform"
+                },
+                {
+                    "Key": "sich(acc) wölben ",
+                    "Value": "to arch"
+                },
+                {
+                    "Key": "umwehen ",
+                    "Value": "to fan"
+                },
+                {
+                    "Key": "undurchführbar",
+                    "Value": " unfeasible"
+                },
+                {
+                    "Key": "ungeheur ",
+                    "Value": " enormous"
+                },
+                {
+                    "Key": "vergoldet ",
+                    "Value": " golden"
+                },
+                {
+                    "Key": "wohlbekannten ",
+                    "Value": " well known"
+                },
+                {
+                    "Key": "zappeln ",
+                    "Value": "to fidget"
+                },
+                {
+                    "Key": "überdies ",
+                    "Value": "furthermore"
+                },
+                {
+                    "Key": "übrigens ",
+                    "Value": "by the way"
+                }
+            ]
+        },
+        {
+            "Name": "13",
+            "Terms": [
+                {
+                    "Key": "aufnahmen",
+                    "Value": "shot,photo"
+                },
+                {
+                    "Key": "begleiten",
+                    "Value": "to accompany"
+                },
+                {
+                    "Key": "belegen",
+                    "Value": "to show"
+                },
+                {
+                    "Key": "benachbarten",
+                    "Value": "second,next-door"
+                },
+                {
+                    "Key": "der Abgleich",
+                    "Value": "comparison"
+                },
+                {
+                    "Key": "der Bügel",
+                    "Value": "hanger"
+                },
+                {
+                    "Key": "der Erhalt",
+                    "Value": "receipt"
+                },
+                {
+                    "Key": "der Forscher",
+                    "Value": "researcher"
+                },
+                {
+                    "Key": "der Reichtum",
+                    "Value": "wealth"
+                },
+                {
+                    "Key": "die Ausgrabungsstätten",
+                    "Value": "archeological remains"
+                },
+                {
+                    "Key": "die Erbe",
+                    "Value": "heritage"
+                },
+                {
+                    "Key": "die Festung",
+                    "Value": "fort"
+                },
+                {
+                    "Key": "die Macht",
+                    "Value": "power"
+                },
+                {
+                    "Key": "die Merkbarkeit",
+                    "Value": "noticing"
+                },
+                {
+                    "Key": "die Vergessenheit",
+                    "Value": "forgotten"
+                },
+                {
+                    "Key": "die Wüste",
+                    "Value": "desert"
+                },
+                {
+                    "Key": "einst",
+                    "Value": "once"
+                },
+                {
+                    "Key": "galten",
+                    "Value": "to consider"
+                },
+                {
+                    "Key": "gelangen",
+                    "Value": "to end up"
+                },
+                {
+                    "Key": "mächtig",
+                    "Value": "strong"
+                },
+                {
+                    "Key": "nachmachen",
+                    "Value": "to fake,forge"
+                },
+                {
+                    "Key": "prächtig",
+                    "Value": "splendid"
+                },
+                {
+                    "Key": "vererben",
+                    "Value": "to inherit"
+                },
+                {
+                    "Key": "zeitgleich",
+                    "Value": "at the same time"
+                },
+                {
+                    "Key": "zu etw. + dat gelangen",
+                    "Value": "to reach smth."
+                },
+                {
+                    "Key": "zuungunsten",
+                    "Value": "for the disadvantage"
+                }
+            ]
+        },
+        {
+            "Name": "13",
+            "Terms": [
+                {
+                    "Key": "eeee",
+                    "Value": "ee"
+                }
+            ]
+        }
+    ]
+}
